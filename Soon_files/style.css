@@ -43,6 +43,16 @@ a {
   outline: none !important;
   color: white;
 }
+/*customer css*/
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 30px !important;
+  }
+  iframe {
+    width: 100% !important;
+  }
+}
+
 a:hover, a:focus, a:active {
   color: white;
   text-decoration: none;
